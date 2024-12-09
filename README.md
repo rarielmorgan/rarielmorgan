@@ -6,5 +6,5 @@
 </p>
 <hr>
 <p align="center">
-  <img src="https://github.com/morganarielr/morganarielr/blob/main/loading.gif" width="100" target="_blank">
+  <img src="https://github.com/rarielmorgan/rarielmorgan/blob/main/loading.gif" width="100" target="_blank">
 </p>
